@@ -1,0 +1,34 @@
+:root{
+    --primary: #75BF7A;
+    --font: Gilroy ;    
+}
+body{
+    background-color:#F9F9F9;
+;
+}
+.button{
+    background-color: #75BF7A;
+    
+}
+.headerbg{
+    background-color:#FFFFFF;
+
+}
+.Textcolor{
+    color: #75BF7A;
+}
+.frame{
+    background-color: #FFFFFF;
+}
+.Textcolorframe{
+    color: #75BF7A;
+    font-size: 100px;
+}
+.footer{
+    background-color: #FFFFFF;
+    padding-left: 30px;
+}
+.footerspace{
+    padding-left: 150px;
+    
+}
